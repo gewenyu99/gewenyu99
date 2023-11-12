@@ -2,7 +2,7 @@
 
 I go by two names, you can call me Vincent or Wen Yu!
 
-I am currently working at [![Appwrite](https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white)](https://appwrite.io) as a DevRel Engineer and studying Computer Engineering at the University of Waterloo.
+I am currently working at [Appwrite](https://appwrite.io) as a DevRel Engineer and studied Computer Engineering at the University of Waterloo.
 
 Currently drinking:
 - ☕ Gatina Nyeri, Kenya from Thom Bargen Coffee Roasters

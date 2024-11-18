@@ -2,7 +2,7 @@
 
 I go by two names, you can call me Vincent or Wen Yu!
 
-I used to work at [Appwrite](https://appwrite.io) as a DevRel Engineer and studied Computer Engineering at the University of Waterloo.
+I'm at [Trunk.io](https://trunk.io/) as a DevRel Engineer and studied Computer Engineering at the University of Waterloo.
 
 Currently drinking:
 - ☕ Gatina Nyeri, Kenya from Thom Bargen Coffee Roasters

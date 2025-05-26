@@ -2,11 +2,9 @@
 
 I go by two names, you can call me Vincent or Wen Yu!
 
-I'm at [Trunk.io](https://trunk.io/) as a DevRel Engineer and studied Computer Engineering at the University of Waterloo.
-
 Currently drinking:
-- ☕ Gatina Nyeri, Kenya from Thom Bargen Coffee Roasters
-- 🧋 Royal No.9 from The Alley
+- ☕ [Ethiopia Faficho Black Honey from Detour](https://detourcoffee.com/products/faficho-black-honey-ethiopia?srsltid=AfmBOopleKQK9FKor7T33O5jsOgGbJtdItKHmyhA2J9uBwaRRN6wOt-d)
+- 🧋 [Molly Tea](https://mollyteaca.com/)
 - 🍵 Pu'er from Yunnan and Cream of Earlgrey from Blink Tea
 
 Currently listening to:
@@ -18,6 +16,6 @@ Actively following:
 - 🏋️ Tian Tao, Olympic Weight Lifting
 
 Currently playing:
-- Concerning amount of Stardew Valley
+- Concerning amount of Flyout because I wanted to be an aerospace engineer but ended up writing about people writing code.
 
 I also cook a lot and post pretty food pictures on [instagram](https://www.instagram.com/umami.complex/).
